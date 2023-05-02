@@ -16,10 +16,14 @@ namespace ClienteSockets
 
             Cliente cliente = new Cliente(ip, puerto);
             cliente.Iniciar();
-            cliente.Enviar("Hola Dios");
-            Console.ReadKey();
-            cliente.Enviar("chao");
-            Console.ReadKey();
+            string mensaje = "";
+            string respuesta = "";
+            while (!mensaje.Equals("chao") && !respuesta.Equals("chao"))
+            {
+                mensaje = cliente.Enviar(Console.ReadLine());
+                respuesta = cliente.Leer();
+                Console.WriteLine("El server mando: {0}", respuesta);
+            }
         }
     }
 }

@@ -25,14 +25,13 @@ namespace ServidorSockets
                 //Construir mecanismo de escritura y lectura
                 ClienteCom cliente = new ClienteCom(socketCliente);
                 string mensaje = "";
-                while (!mensaje.Equals("chao"))
+                string respuesta = "";
+                while (!mensaje.Equals("chao") && !respuesta.Equals("chao"))
                 {   
                     //ahora el protocolo de cominicacion 
-                    cliente.Escribir("Hola Mundo Cliente, dame tu nombre");
-                    string respuesta = cliente.Leer();
-                    mensaje = respuesta;
+                    mensaje = cliente.Escribir(Console.ReadLine());
+                    respuesta = cliente.Leer();
                     Console.WriteLine("El cliente mando: {0}", respuesta);
-                    cliente.Escribir(" Chaooo, loh juimos");
                 }
                 cliente.Desconectar();
                 Console.ReadKey();

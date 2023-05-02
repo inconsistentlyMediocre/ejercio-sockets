@@ -37,10 +37,25 @@ namespace ClienteSockets
             writer = new StreamWriter(stream);
         }
 
-        public void Enviar(string mensaje)
+        public string Enviar(string mensaje)
         {
             writer.WriteLine(mensaje);
             writer.Flush();
+            return mensaje;
+        }
+
+        public String Leer()
+        {
+
+            try
+            {
+                string mensaje = this.reader.ReadLine().Trim();
+                return mensaje;
+            }
+            catch (Exception ex)
+            {
+                return null;
+            }
         }
     }
 }

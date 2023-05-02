@@ -6,3 +6,11 @@ C:\Users\carl\source\repos\Sockets\ServidorSockets\ServidorSockets\obj\Debug\Ser
 C:\Users\carl\source\repos\Sockets\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.csproj.CoreCompileInputs.cache
 C:\Users\carl\source\repos\Sockets\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.exe
 C:\Users\carl\source\repos\Sockets\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.pdb
+C:\Users\laboratorio2\source\repos\ejercio-sockets\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.csproj.AssemblyReference.cache
+C:\Users\laboratorio2\source\repos\ejercio-sockets\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.csproj.SuggestedBindingRedirects.cache
+C:\Users\laboratorio2\source\repos\ejercio-sockets\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio2\source\repos\ejercio-sockets\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.exe
+C:\Users\laboratorio2\source\repos\ejercio-sockets\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.pdb
+C:\Users\laboratorio2\source\repos\ejercio-sockets\ServidorSockets\ServidorSockets\bin\Debug\ServidorSockets.exe.config
+C:\Users\laboratorio2\source\repos\ejercio-sockets\ServidorSockets\ServidorSockets\bin\Debug\ServidorSockets.exe
+C:\Users\laboratorio2\source\repos\ejercio-sockets\ServidorSockets\ServidorSockets\bin\Debug\ServidorSockets.pdb

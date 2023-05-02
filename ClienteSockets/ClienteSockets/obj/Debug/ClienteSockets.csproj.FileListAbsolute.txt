@@ -6,3 +6,11 @@ C:\Users\carl\source\repos\Sockets\ClienteSockets\ClienteSockets\obj\Debug\Clien
 C:\Users\carl\source\repos\Sockets\ClienteSockets\ClienteSockets\obj\Debug\ClienteSockets.csproj.CoreCompileInputs.cache
 C:\Users\carl\source\repos\Sockets\ClienteSockets\ClienteSockets\obj\Debug\ClienteSockets.exe
 C:\Users\carl\source\repos\Sockets\ClienteSockets\ClienteSockets\obj\Debug\ClienteSockets.pdb
+C:\Users\laboratorio2\Source\Repos\ejercio-sockets\ClienteSockets\ClienteSockets\bin\Debug\ClienteSockets.exe.config
+C:\Users\laboratorio2\Source\Repos\ejercio-sockets\ClienteSockets\ClienteSockets\bin\Debug\ClienteSockets.exe
+C:\Users\laboratorio2\Source\Repos\ejercio-sockets\ClienteSockets\ClienteSockets\bin\Debug\ClienteSockets.pdb
+C:\Users\laboratorio2\Source\Repos\ejercio-sockets\ClienteSockets\ClienteSockets\obj\Debug\ClienteSockets.csproj.AssemblyReference.cache
+C:\Users\laboratorio2\Source\Repos\ejercio-sockets\ClienteSockets\ClienteSockets\obj\Debug\ClienteSockets.csproj.SuggestedBindingRedirects.cache
+C:\Users\laboratorio2\Source\Repos\ejercio-sockets\ClienteSockets\ClienteSockets\obj\Debug\ClienteSockets.csproj.CoreCompileInputs.cache
+C:\Users\laboratorio2\Source\Repos\ejercio-sockets\ClienteSockets\ClienteSockets\obj\Debug\ClienteSockets.exe
+C:\Users\laboratorio2\Source\Repos\ejercio-sockets\ClienteSockets\ClienteSockets\obj\Debug\ClienteSockets.pdb

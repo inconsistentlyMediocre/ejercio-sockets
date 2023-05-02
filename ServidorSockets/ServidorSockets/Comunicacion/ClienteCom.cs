@@ -34,17 +34,17 @@ namespace ServidorSockets.Comunicacion
             }
         }
 
-        public bool Escribir(string mensaje)
+        public string Escribir(string mensaje)
         {
             try
             {
                 this.writer.WriteLine(mensaje);
                 this.writer.Flush();
-                return true;
+                return mensaje;
             }
             catch (Exception ex)
             {
-                return false;
+                return "";
             }
         }
 
