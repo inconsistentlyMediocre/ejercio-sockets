@@ -1,0 +1,8 @@
+C:\Users\carl\source\repos\Sockets\ServidorSockets\ServidorSockets\bin\Debug\ServidorSockets.exe.config
+C:\Users\carl\source\repos\Sockets\ServidorSockets\ServidorSockets\bin\Debug\ServidorSockets.exe
+C:\Users\carl\source\repos\Sockets\ServidorSockets\ServidorSockets\bin\Debug\ServidorSockets.pdb
+C:\Users\carl\source\repos\Sockets\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.csproj.AssemblyReference.cache
+C:\Users\carl\source\repos\Sockets\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.csproj.SuggestedBindingRedirects.cache
+C:\Users\carl\source\repos\Sockets\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.csproj.CoreCompileInputs.cache
+C:\Users\carl\source\repos\Sockets\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.exe
+C:\Users\carl\source\repos\Sockets\ServidorSockets\ServidorSockets\obj\Debug\ServidorSockets.pdb
